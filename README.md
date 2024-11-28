@@ -8,6 +8,13 @@
   
 <img width="511" alt="image" src="https://github.com/user-attachments/assets/2cc917f1-758a-4084-89c0-9573d93ba016">
 
+Github action:
+
+https://github.com/ozbillwang/task-1/actions
+
+Docker Hub:
+
+https://hub.docker.com/repository/docker/ozbillwang/challenge/general
 
 ### What else you would do with your website, and how you would go about doing it if you had more time.
 
