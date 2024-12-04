@@ -2,7 +2,7 @@
 
 * Build a Docker image to deploy the React project as a website, `cd frontend ; npm install; npm run build; npm start`
 * Customize the website to display my name.
-* Support multi-arch docker image builds, suitable for Mac M1/M2 chip users to run tests locally. `docker push ozbillwang/challenge`
+* Support multi-arch docker image builds, suitable for Mac M1/M2 chip users to run tests locally. `docker pull ozbillwang/challenge`
 * Create a GitHub Action workflow to automate the build and push of Docker images to Docker Hub, can support for GHCR or AWS ECR if needed.
 * Create Helm charts and deploy the website, such as `helm upgrade --install`
   
